@@ -1,8 +1,0 @@
-<launch>
-  <node name="lane_vel" pkg="my_car" type="laneDetection_v001.py" output="screen">
-  </node>
-  <node name="kinematicCtrl" pkg="my_car" type="my_serveNode.py" output="screen">
-  </node>
-  <node name="serial_port" pkg="my_car" type="serial_port_server_node.py" output="screen">
-  </node>
-</launch>
