@@ -1,0 +1,2 @@
+bluetooth_bridge:car:my_car:rplidar_ros
+-DCATKIN_DEVEL_PREFIX=/home/pi/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pi/ros_ws/install -G Unix Makefiles
