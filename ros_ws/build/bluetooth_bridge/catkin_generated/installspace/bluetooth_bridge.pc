@@ -1,0 +1,8 @@
+prefix=/home/pi/ros_ws/install
+
+Name: bluetooth_bridge
+Description: Description of bluetooth_bridge
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
